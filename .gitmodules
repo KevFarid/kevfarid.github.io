@@ -1,0 +1,3 @@
+[submodule "CalculadoraGrafica"]
+	path = CalculadoraGrafica
+	url = https://github.com/KevFarid/CalculadoraGrafica
